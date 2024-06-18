@@ -1,0 +1,21 @@
+npm vs npx
+why we don't get authorization or validation on frontend but in backend
+middlewares 
+app.use(sdfas,next){next()}
+zod
+single threaded
+loosesly typed vs strictly typed language
+node is runtime not an framework , runs on v8 engine
+js is interpreted language
+diff betwn interpreted vs compiled language
+callbacks thourgly
+global catches
+spread operator
+why we databases , why dont read and write in a txt  file  and store i t
+if there are limited ips then how all people host there site on different ips
+can you give same id to two elements: - yes but its a bad practice
+debouncing :- delaying sending out in request eg. amazon search bar , for that we use settimeout with the
+		function , clearTimeout may help to clear the setTimeout when the user is typing 
+throttling :- a bunch of requests on a short period of time ,cuz not applying debouncing, then the server
+		starts to ignore some requests
+why do we need react:- react make our life easier with dom manipulation
