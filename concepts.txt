@@ -19,3 +19,19 @@ debouncing :- delaying sending out in request eg. amazon search bar , for that w
 throttling :- a bunch of requests on a short period of time ,cuz not applying debouncing, then the server
 		starts to ignore some requests
 why do we need react:- react make our life easier with dom manipulation
+
+Diff between sql and mongodb is
+Mongo is not structured while sql is
+Mongo can store array like structure while sql cant
+Mongo have a ref thing which sql haven't
+
+why do a react component should return a single child like <>components..</>
+because it makes easy to do reconsilation:- dom to know which component to update
+memo: skips a re-render if the comoonents prop dont change
+key: key is important to lessen the re-render in map function by using a uniqe key for every component
+wrapper component: is a type to pass a component as prop inside another component
+
+side effects and their example
+bind and this keyword in js
+use callback, usememo
+why we have custom hooks why dont we use functions? cuz we dont use states inside a function but only in hooks and components 
