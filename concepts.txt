@@ -35,3 +35,9 @@ side effects and their example
 bind and this keyword in js
 use callback, usememo
 why we have custom hooks why dont we use functions? cuz we dont use states inside a function but only in hooks and components 
+client side rendering
+react-router-dom
+react.lazy
+children thing
+prop drilling
+context api
