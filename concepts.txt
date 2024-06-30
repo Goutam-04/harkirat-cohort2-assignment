@@ -10,7 +10,8 @@ js is interpreted language
 diff betwn interpreted vs compiled language
 callbacks thourgly
 global catches
-spread operator
+spread operator, this keyword
+what does that try catch does
 why we databases , why dont read and write in a txt  file  and store i t
 if there are limited ips then how all people host there site on different ips
 can you give same id to two elements: - yes but its a bad practice
@@ -40,4 +41,11 @@ react-router-dom
 react.lazy
 children thing
 prop drilling
-context api
+context api, downsides of context api so thats why we use redux/recoil, also know about recoil,
+do i always use recoil:- no there are usecases of usestate
+how to write code that we switch from recoil to redux or other statemanageement lib in future
+selector in recoil
+how typescript goes run
+tsconfig file chages outdir,rootdir,target,noimplicity,removecomments ,giignore dist
+passing a function inside a function in ts, interface vs types, optional in interface , passig prop in ts
+
